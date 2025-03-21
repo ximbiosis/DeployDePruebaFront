@@ -3,7 +3,8 @@ import React from 'react'
 function App() {
   return (
       <div>
-        <div>Hola Mundo Vercel !</div>
+        <h3>Hola Mundo Vercel !</h3>
+        <span>Texto de prueba de la primera actualizacion</span>
       </div>
   )
 }
